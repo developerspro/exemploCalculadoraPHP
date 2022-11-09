@@ -1,5 +1,5 @@
 <?php 
 
 function soma(){
-//calculo
+    $resultado = $numero1+$numero2;
 }
